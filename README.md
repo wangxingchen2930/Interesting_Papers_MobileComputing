@@ -47,7 +47,7 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 ## 2023
 
-### INFOCOM：
+### INFOCOM (initial pick)：
 
 * [FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker](TBA)
 
