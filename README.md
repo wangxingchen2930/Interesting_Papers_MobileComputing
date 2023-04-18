@@ -16,6 +16,7 @@ We summarize the approximate deadline and the conference time for each conferenc
 | SenSys | May/June | Nov |
 | MobiHoc | Early Mar | July/Oct |
 | INFOCOM | July/Aug  | May |
+| ICDCS | Dec/Jan | July |
 
 [//]: < ## 2021 >
 
@@ -37,6 +38,9 @@ We summarize the approximate deadline and the conference time for each conferenc
 ### UbiComp:
 
 ### SenSys:
+
+
+
 -->
 
 
