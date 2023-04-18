@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**.
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**.
 
 ## Information
 
