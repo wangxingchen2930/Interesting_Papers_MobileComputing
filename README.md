@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. Currently, selected papers focus on **acoustic sensing** (acoustic/sound/speech/voice/ultrasonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. Currently, selected papers focus on **acoustic sensing** (acoustic/audio/sound/speech/voice/sonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
 
 ## Information
 
@@ -67,9 +67,27 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification](TBA)
 
 
-<!---
+
 ### MobiSys:
 
+* [MagEar: Eavesdropping via Audio Recovery using Magnetic Side Channel](https://dl.acm.org/doi/pdf/10.1145/3498361.3538921)
+
+* [EarHealth: An Earphone-based Acoustic Otoscope for Detection of Multiple Ear Diseases in Daily Life](https://dl.acm.org/doi/pdf/10.1145/3498361.3538935)
+
+* [SPiDR: Ultra-low-power Acoustic Spatial Sensing for Micro-robot Navigation (**Best Paper Award**)](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf)
+
+* [MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
+
+* [ClearBuds: Wireless Binaural Earbuds for Learning-based Speech Enhancement](https://arxiv.org/pdf/2206.13611.pdf)
+
+* [FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://dl.acm.org/doi/pdf/10.1145/3498361.3538917)
+
+* [Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3498361.3538928)
+
+* [Memory-efficient DNN Training on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3498361.3539765)
+
+
+<!---
 ### HobiHoc:
 
 ### MobiCom:
