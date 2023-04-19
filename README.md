@@ -97,17 +97,34 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 
 
-<!---
+
 
 ### MobiCom:
 
+* [Mobi2Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)
+
+* [Cosmo: contrastive fusion learning with small data for multimodal human activity recognition](https://dl.acm.org/doi/pdf/10.1145/3495243.3560519)
+
+* [Experience: Practical Problems for Acoustic Sensing](https://people.cs.umass.edu/~dli/papers/MobiCom22_Experience.pdf)
+
 * [PyramidFL: A Fine-grained Client Selection Framework for Efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf)
 
+* [Audio-domain Position-independent Backdoor Attack via Unnoticeable Triggers](https://dl.acm.org/doi/pdf/10.1145/3495243.3560531)
+
+* [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/pdf/10.1145/3495243.3560546)
+
+* [Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)
+
+* [InFi: End-to-end Learnable Input Filter for Resource-efficient Mobile-centric Inference](https://dl.acm.org/doi/pdf/10.1145/3495243.3517016)
+
+* [Experience: Practical Indoor Localization for Malls](https://dl.acm.org/doi/pdf/10.1145/3495243.3517021)
+
+
+<!---
 
 ### UbiComp:
 
 ### SenSys:
-
 
 
 -->
