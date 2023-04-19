@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**.
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. Currently, selected papers focus on **acoustic sensing** (acoustic/sound/speech/voice/ultrasonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
 
 ## Information
 
@@ -20,12 +20,54 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 [//]: < ## 2021 >
 
-<!---
+
 ## 2022
 
 
-### INFOCOM:
+### INFOCOM (initial pick):
 
+* [Big Brother is Listening: An Evaluation Framework on Ultrasonic Microphone Jammers](TBA)
+
+* [DeepEar: Sound Localization with Binaural Microphones](TBA)
+
+* [Amaging: Acoustic Hand Imaging for Self-adaptive Gesture Recognition](TBA)
+
+* [MILLIEAR: Millimeter-wave Acoustic Eavesdropping with Unconstrained Vocabulary](TBA)
+
+* [mmPhone: Acoustic Eavesdropping on Loudspeakers via mmWave-characterized Piezoelectric Effect](TBA)
+
+* [TeethPass: Dental Occlusion-based User Authentication via In-ear Acoustic Sensing](TBA)
+
+* [Separating Voices from Multiple Sound Sources using 2D Microphone Array](TBA)
+
+* [Thwarting Unauthorized Voice Eavesdropping via Touch Sensing in Mobile Systems](TBA)
+
+* [Sound of Motion: Real-time Wrist Tracking with A Smart Watch-Phone Pair](TBA)
+
+* [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](TBA)
+
+* [A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning](TBA)
+
+* [Communication-Efficient Device Scheduling for Federated Learning Using Stochastic Optimization](TBA)
+
+* [FLASH: Federated Learning for Automated Selection of High-band mmWave Sectors](TBA)
+
+* [Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks](TBA)
+
+* [Optimal Rate Adaption in Federated Learning with Compressed Communications](TBA)
+
+* [Protect Privacy from Gradient Leakage Attack in Federated Learning](TBA)
+
+* [Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling](TBA)
+
+* [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](TBA)
+
+* [Towards Optimal Multi-modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending](TBA)
+
+* [Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification](TBA)
+
+
+<!---
 ### MobiSys:
 
 ### HobiHoc:
