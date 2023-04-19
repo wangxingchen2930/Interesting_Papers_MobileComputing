@@ -87,8 +87,17 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [Memory-efficient DNN Training on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3498361.3539765)
 
 
-<!---
+
 ### HobiHoc:
+
+* [Extracting and Predicting Multipath Profiles under High Mobility and Its Application](https://dl.acm.org/doi/pdf/10.1145/3492866.3549710)
+
+* [NET-FLEET: Achieving Linear Convergence Speedup for Fully Decentralized Federated Learning with Heterogeneous Data](https://dl.acm.org/doi/pdf/10.1145/3492866.3549723)
+
+
+
+
+<!---
 
 ### MobiCom:
 
