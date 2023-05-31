@@ -129,11 +129,81 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [Experience: Practical Indoor Localization for Malls](https://dl.acm.org/doi/pdf/10.1145/3495243.3517021)
 
 
-<!---
 
-### UbiComp:
+### UbiComp (initial pick):
 
--->
+* [SonicFace: Tracking Facial Expressions Using a Commodity Microphone Array](TBA)
+
+* [Unobtrusive Pedestrian Identification by Leveraging Footstep Sounds with Replay Resistance](TBA)
+
+* [CycleGuard: A Smartphone-based Assistive Tool for Cyclist Safety Using Acoustic Ranging](TBA)
+
+* [Understanding User Perceptions of Proactive Smart Speakers](TBA)
+
+* [SpeeChin: A Smart Necklace for Silent Speech Recognition](TBA)
+
+* [SkillFence: A Systems Approach to Practically Mitigating Voice-Based Confusion Attacks](TBA)
+
+* [LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals](TBA)
+
+* [Leveraging Sound and Wrist Motion to Detect Activities of Daily Living with Commodity Smartwatches](TBA)
+
+* [BreathMentor: Acoustic-based Diaphragmatic Breathing Monitor System](TBA)
+
+* [EarCommand: “Hearing” Your Silent Speech Commands In Ear](TBA)
+
+* [EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements](TBA)
+
+* [Learning on the Rings: Self-Supervised 3D Finger Motion Tracking Using Wearable Sensors](TBA)
+
+* [Enabling Contact-free Acoustic Sensing under Device Motion](TBA)
+
+* [SAMoSA - Sensing Activities with Motion and Sub-Sampled Audio](TBA)
+
+* [MuteIt: Jaw Motion based Unvoiced Command Recognition using Earable](TBA)
+
+* [ChestLive: Fortifying Voice-based Authentication with Chest Motion Biometric on Smart Devices](TBA)
+
+* [Janus: Dual-radio Accurate and Energy-Efficient Proximity Detection](TBA)
+
+* [FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing](TBA)
+
+* [ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition](TBA)
+
+* [Gesture Recognition Method Using Acoustic Sensing on Usual Garment](TBA)
+
+* [WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System](TBA)
+
+* [FLAME: Federated Learning Across Multi-device Environments](TBA)
+
+* [COCOA: Cross Modality Contrastive Learning for Sensor Data](TBA)
+
+* [Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets](TBA)
+
+* [WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables](TBA)
+
+* [Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition](TBA)
+
+* [ToothSonic: Earable Authentication via Acoustic Toothprint](TBA)
+
+* [VoLearn: A Cross-Modal Operable Motion-Learning System Combined with Virtual Avatar and Auditory Feedback](TBA)
+
+* [Are You Left Out? An Efficient and Fair Federated Learning for Personalized Profiles onWearable Devices of Inferior Networking Conditions](TBA)
+
+* [SwipePass: Acoustic-based Second-factor User Authentication for Smartphones](TBA)
+
+* [UltraSpeech: Speech Enhancement by Interaction between Ultrasound and Speech](TBA)
+
+* [Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition](TBA)
+
+* [AccMyrinx: Speech Synthesis with Non-Acoustic Sensor](TBA)
+
+* [VECTOR: Velocity Based Temperature-field Monitoring with Distributed Acoustic Devices](TBA)
+
+* [MetaGanFi: Cross-Domain Unseen Individual Identification Using WiFi Signals](TBA)
+
+* [LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects](TBA)
+
 
 ### SenSys:
 
