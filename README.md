@@ -91,12 +91,28 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [Memory-efficient DNN Training on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3498361.3539765)
 
 
-<!---
 
-### ICDCS:
+### ICDCS (initial pick):
 
+* [Lagrange Coded Federated Learning (L-CoFL) Model for Internet of Vehicles](TBA)
 
--->
+* [Energy Minimization for Federated Asynchronous Learning on Consumer Edge Devices via Application Co-running](TBA)
+
+* [KAFL: Achieving High Training Efficiency for Fast-K Asynchronous Federated Learning](TBA)
+
+* [Aligning before Aggregating: Enabling Cross-domain Federated Learning via Consistent Feature Extraction](TBA)
+
+* [Joint Optimization of Energy Consumption and Completion Time in Federated Learning](TBA)
+
+* [Sustainable Federated Learning with Long-term Online VCG Auction Mechanism](TBA)
+
+* [FedZKT: Zero-Shot Knowledge Transfer towards Resource-Constrained Federated Learning with Heterogeneous On-Device Models](TBA)
+
+* [Distributionally Robust Federated Learning for Differentially Private Data](TBA)
+
+* [ContextFL: Context-aware Federated Learning by Estimating the Training and Reporting Phases of Mobile Clients](TBA)
+
+* [Multi-granularity Weighted Federated Learning in Heterogeneous Mobile Edge Computing Systems](TBA)
 
 
 
