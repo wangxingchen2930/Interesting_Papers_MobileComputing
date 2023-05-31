@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. Currently, selected papers focus on **acoustic sensing** (acoustic/audio/sound/speech/voice/sonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. 
+
+<!--
+Currently, selected papers focus on **acoustic sensing** (acoustic/audio/sound/speech/voice/sonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
+-->
 
 ## Information
 
@@ -129,10 +133,34 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 ### UbiComp:
 
+-->
+
 ### SenSys:
 
+* [FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices](https://dl.acm.org/doi/pdf/10.1145/3560905.3568538)
 
--->
+* [Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508)
+
+* [SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf)
+
+* [Room-scale Hand Gesture Recognition Using Smart Speakers](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf)
+
+* [AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking](https://dl.acm.org/doi/pdf/10.1145/3560905.3568499)
+
+* [Indoor Smartphone SLAM with Learned Echoic Location Features](https://arxiv.org/pdf/2210.08493.pdf)
+
+* [MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing](https://dl.acm.org/doi/pdf/10.1145/3560905.3568515)
+
+* [TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity](https://dl.acm.org/doi/pdf/10.1145/3560905.3568503)
+
+* [SVoice: Enable Voice Communication in Silence via Acoustic Sensing on Commodity Devices](https://dl.acm.org/doi/pdf/10.1145/3560905.3568530)
+
+* [Accuth: Anti-Spoofing Voice Authentication via Accelerometer](https://dl.acm.org/doi/pdf/10.1145/3560905.3568522)
+
+* [PFed-LDP: A Personalized Federated Local Differential Privacy Framework for IoT Sensing Data](https://dl.acm.org/doi/pdf/10.1145/3560905.3568073)
+
+* [Generative Personalized Federated Learning Framework for Travel Time Estimation](https://dl.acm.org/doi/pdf/10.1145/3560905.3568083)
+
 
 
 
