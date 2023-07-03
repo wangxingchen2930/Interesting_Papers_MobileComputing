@@ -324,9 +324,28 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 
 
-<!---
+
 ### MobiSys
 
+* [DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867)
+
+* ["Is this my president speaking?" Tamper-proofing Speech in Live Recordings](https://dl.acm.org/doi/pdf/10.1145/3581791.3596862)
+
+* [SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems](https://dl.acm.org/doi/pdf/10.1145/3581791.3596859)
+
+* [Wireless earbuds for low-cost hearing screening](https://dl.acm.org/doi/pdf/10.1145/3581791.3596856)
+
+* [Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training](https://dl.acm.org/doi/pdf/10.1145/3581791.3596844)
+
+* [Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables](https://dl.acm.org/doi/pdf/10.1145/3581791.3596832)
+
+* [EchoAttack: Practical Inaudible Attacks To Smart Earbuds](https://dl.acm.org/doi/pdf/10.1145/3581791.3596837)
+
+* [RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips](https://dl.acm.org/doi/pdf/10.1145/3581791.3596838)
+
+* [BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841)
+
+<!---
 ### ICDCS
 
 ### HobiHoc
