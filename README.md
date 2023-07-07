@@ -345,9 +345,18 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 * [BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841)
 
-<!---
-### ICDCS
 
+### ICDCS
+* [EchoImage: User Authentication on Smart Speakers Using Acoustic Signals](TBA)
+
+* [EmoLeak: Smartphone Motions Reveal Emotions](TBA)
+
+* [An Acoustic Signal-based Middle-Ear Effusion Detection using Earphones](TBA)
+
+* [SplitBeam: Effective and Efficient Beamforming in Wi-Fi Networks Through Split Computing](TBA)
+
+
+<!---
 ### HobiHoc
 
 ### MobiCom
