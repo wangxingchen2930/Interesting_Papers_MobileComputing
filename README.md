@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **MobiHoc**, **INFOCOM**, **ICDCS**. 
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **IPSN**, **MobiHoc**, **INFOCOM**, **ICDCS**. 
 
 <!--
 Currently, selected papers focus on **acoustic sensing** (acoustic/audio/sound/speech/voice/sonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
