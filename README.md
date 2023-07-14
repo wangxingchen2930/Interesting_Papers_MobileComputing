@@ -18,6 +18,7 @@ We summarize the approximate deadline and the conference time for each conferenc
 | UbiComp (IMWUT) | 11-15 / 2-15 / 5-15 / 8-15 | Sept/Oct |
 | MobiSys | Early Dec | June |
 | SenSys | May/June | Nov |
+| IPSN | Sept/Oct | April/May |
 | MobiHoc | Early Mar | July/Oct |
 | INFOCOM | July/Aug  | May |
 | ICDCS | Dec/Jan | July |
@@ -323,6 +324,9 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [TVFL: Tunable Vertical Federated Learning towards Communication-Efficient Model Serving](TBA)
 
 
+### IPSN
+
+* [Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954)
 
 
 ### MobiSys
