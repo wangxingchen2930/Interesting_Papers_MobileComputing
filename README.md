@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **IPSN**, **MobiHoc**, **INFOCOM**, **ICDCS**. 
+This repository collects interesting papers in mobile computing area starting from 2022. We mainly focus on following conferences: **MobiCom**, **UbiComp**, **MobiSys**, **SenSys**, **IPSN**, **IoTDI**, **MobiHoc**, **INFOCOM**, **ICDCS**. 
 
 <!--
 Currently, selected papers focus on **acoustic sensing** (acoustic/audio/sound/speech/voice/sonic/microphone/speaker), **federated learning** (federated) and **cross-modality** (model/modal/cross/multi).
@@ -19,6 +19,7 @@ We summarize the approximate deadline and the conference time for each conferenc
 | MobiSys | Early Dec | June |
 | SenSys | May/June | Nov |
 | IPSN | Sept/Oct | April/May |
+| IoTDI | Oct | April/May |
 | MobiHoc | Early Mar | July/Oct |
 | INFOCOM | July/Aug  | May |
 | ICDCS | Dec/Jan | July |
@@ -328,6 +329,14 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 * [Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954)
 
+### IoTDI
+
+* [In-Ear-Voice: Towards Milli-Watt Audio Enhancement with Bone-Conduction Microphones for In-Ear Sensing Platforms](https://dl.acm.org/doi/pdf/10.1145/3576842.3582365)
+
+* [Acuity: Creating Realistic Digital Twins Through Multi-resolution Pointcloud Processing and Audiovisual Sensor Fusion.](https://dl.acm.org/doi/pdf/10.1145/3576842.3582363)
+
+* [AI-based Simultaneous Audio Localization and Communication For Robots](https://dl.acm.org/doi/pdf/10.1145/3576842.3582373)
+
 
 ### MobiSys
 
@@ -351,6 +360,7 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 
 ### ICDCS
+
 * [EchoImage: User Authentication on Smart Speakers Using Acoustic Signals](TBA)
 
 * [EmoLeak: Smartphone Motions Reveal Emotions](TBA)
