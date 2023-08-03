@@ -254,6 +254,28 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 ## 2023
 
+### IMWUT (Ubicomp):
+
+#### Volume 7, Issue 1 (March):
+
+* [Mites: Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings](https://dl.acm.org/doi/pdf/10.1145/3580865)
+
+* [ViSig: Automatic Interpretation of Visual Body Signals Using On-Body Sensors](https://dl.acm.org/doi/pdf/10.1145/3580797)
+
+* [RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensing](https://dl.acm.org/doi/pdf/10.1145/3580854)
+
+* [Midas: Generating mmWave Radar Data from Videos for Training Pervasive and Privacy-preserving Human Sensing Tasks](https://dl.acm.org/doi/pdf/10.1145/3580872)
+
+* [MI-Mesh: 3D Human Mesh Construction by Fusing Image and Millimeter Wave](https://dl.acm.org/doi/pdf/10.1145/3580861)
+
+* [Real-time Context-Aware Multimodal Network for Activity and ActivityStage Recognition from Team Communication in Dynamic Clinical Settings](https://dl.acm.org/doi/pdf/10.1145/3580798)
+
+* []()
+
+#### Volume 7, issue 2 (June):
+
+* []()
+
 ### INFOCOM (initial pick)：
 
 * [FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker](TBA)
