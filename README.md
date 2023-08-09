@@ -270,7 +270,25 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 * [Real-time Context-Aware Multimodal Network for Activity and ActivityStage Recognition from Team Communication in Dynamic Clinical Settings](https://dl.acm.org/doi/pdf/10.1145/3580798)
 
-* []()
+* [X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model](https://dl.acm.org/doi/pdf/10.1145/3580804)
+
+* [Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580795)
+
+* [AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments](https://dl.acm.org/doi/pdf/10.1145/3580818)
+
+* [FocalPoint: Adaptive Direct Manipulation for Selecting Small 3D Virtual Objects](https://dl.acm.org/doi/pdf/10.1145/3580856)
+
+* [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3580789)
+
+* [MagSound: Magnetic Field Assisted Wireless Earphone Tracking](https://dl.acm.org/doi/pdf/10.1145/3580889)
+
+* [Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud](https://dl.acm.org/doi/pdf/10.1145/3580779)
+
+* [RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580859)
+
+* [mSilent: Towards General Corpus Silent Speech Recognition Using COTS mmWave Radar](https://dl.acm.org/doi/pdf/10.1145/3580838)
+
+* [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System](https://dl.acm.org/doi/pdf/10.1145/3580835)
 
 #### Volume 7, issue 2 (June):
 
