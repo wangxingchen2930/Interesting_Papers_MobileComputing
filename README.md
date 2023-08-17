@@ -292,6 +292,14 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 #### Volume 7, issue 2 (June):
 
+* [EarAcE: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/pdf/10.1145/3596242)
+
+* [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://dl.acm.org/doi/pdf/10.1145/3596266)
+
+* [RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID](https://dl.acm.org/doi/pdf/10.1145/3596259)
+
+* [TwinkleTwinkle: Interacting with Your Smart Devices by Eye Blink](https://dl.acm.org/doi/pdf/10.1145/3596238)
+
 * []()
 
 ### INFOCOM (initial pick)：
