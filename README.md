@@ -24,7 +24,208 @@ We summarize the approximate deadline and the conference time for each conferenc
 | INFOCOM | July/Aug  | May |
 | ICDCS | Dec/Jan | July |
 
-[//]: < ## 2021 >
+
+
+
+## 2023
+
+
+
+### IMWUT (Ubicomp):
+
+#### Volume 7, Issue 1 (March):
+
+* [Mites: Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings](https://dl.acm.org/doi/pdf/10.1145/3580865)
+
+* [ViSig: Automatic Interpretation of Visual Body Signals Using On-Body Sensors](https://dl.acm.org/doi/pdf/10.1145/3580797)
+
+* [RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensing](https://dl.acm.org/doi/pdf/10.1145/3580854)
+
+* [Midas: Generating mmWave Radar Data from Videos for Training Pervasive and Privacy-preserving Human Sensing Tasks](https://dl.acm.org/doi/pdf/10.1145/3580872)
+
+* [MI-Mesh: 3D Human Mesh Construction by Fusing Image and Millimeter Wave](https://dl.acm.org/doi/pdf/10.1145/3580861)
+
+* [Real-time Context-Aware Multimodal Network for Activity and ActivityStage Recognition from Team Communication in Dynamic Clinical Settings](https://dl.acm.org/doi/pdf/10.1145/3580798)
+
+* [X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model](https://dl.acm.org/doi/pdf/10.1145/3580804)
+
+* [Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580795)
+
+* [AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments](https://dl.acm.org/doi/pdf/10.1145/3580818)
+
+* [FocalPoint: Adaptive Direct Manipulation for Selecting Small 3D Virtual Objects](https://dl.acm.org/doi/pdf/10.1145/3580856)
+
+* [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3580789)
+
+* [MagSound: Magnetic Field Assisted Wireless Earphone Tracking](https://dl.acm.org/doi/pdf/10.1145/3580889)
+
+* [Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud](https://dl.acm.org/doi/pdf/10.1145/3580779)
+
+* [RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580859)
+
+* [mSilent: Towards General Corpus Silent Speech Recognition Using COTS mmWave Radar](https://dl.acm.org/doi/pdf/10.1145/3580838)
+
+* [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System](https://dl.acm.org/doi/pdf/10.1145/3580835)
+
+#### Volume 7, issue 2 (June):
+
+* [EarAcE: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/pdf/10.1145/3596242)
+
+* [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://dl.acm.org/doi/pdf/10.1145/3596266)
+
+* [RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID](https://dl.acm.org/doi/pdf/10.1145/3596259)
+
+* [TwinkleTwinkle: Interacting with Your Smart Devices by Eye Blink](https://dl.acm.org/doi/pdf/10.1145/3596238)
+
+* []()
+
+<!---
+### HobiHoc
+
+### UbiComp
+
+### SenSys
+-->
+
+### MobiCom
+* [Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound](https://dl.acm.org/doi/pdf/10.1145/3570361.3592496)
+
+* [mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications](https://dl.acm.org/doi/pdf/10.1145/3570361.3592515)
+
+* [AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517)
+
+* [SignQuery:A Natural User Interface and Search Engine for Sign Languages with Wearable Sensors](https://dl.acm.org/doi/pdf/10.1145/3570361.3613286)
+
+* [Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity](https://dl.acm.org/doi/pdf/10.1145/3570361.3613279)
+
+* [LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup](https://dl.acm.org/doi/pdf/10.1145/3570361.3613285)
+
+* [PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones](https://people.cs.umass.edu/~dli/papers/Mobicom23_PowerPhone.pdf)
+
+* [Practically Adopting Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3570361.3613299)
+
+* [MUSE-Fi:Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290)
+
+* [Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation](https://dl.acm.org/doi/pdf/10.1145/3570361.3613302)
+
+* [FederatedFew-ShotLearningforMobileNLP](https://dl.acm.org/doi/pdf/10.1145/3570361.3613277)
+
+### INFOCOM (initial pick)：
+
+* [FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker](TBA)
+
+* [HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones](TBA)
+
+* [I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors](TBA)
+
+* [mmMIC: Multi-modal Speech Recognition based on mmWave Radar](https://cs.nju.edu.cn/lxie/publication/INFOCOM2023Fan.pdf)
+
+* [Secure and Robust Two Factor Authentication via Acoustic Fingerprinting](TBA)
+
+* [Voice Liveness Detection with Sound Field Dynamics](TBA)
+
+* [WakeUp: Fine-Grained Fatigue Detection Based on Multi-Information Fusion on Smart Speakers](TBA)
+
+* [WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking](TBA)
+
+* [A Hierarchical Knowledge Transfer Framework for Heterogeneous Federated Learning](TBA)
+
+* [A Reinforcement Learning Approach for Minimizing Job Completion Time in Clustered Federated Learning](TBA)
+
+* [Adaptive Configuration for Heterogeneous Participants in Decentralized Federated Learning](TBA)
+
+* [AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge Devices](TBA)
+
+* [AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation](TBA)
+
+* [Asynchronous Federated Unlearning](TBA)
+
+* [Communication-Efficient Federated Learning for Heterogeneous Edge Devices Based on Adaptive Gradient Quantization](TBA)
+
+* [Enabling Communication-Efficient Federated Learning via Distributed Compressed Sensing](TBA)
+
+* [Federated Learning under Heterogeneous and Correlated Client Availability](TBA)
+
+* [Federated Learning with Flexible Control](TBA)
+
+* [Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Network](TBA)
+
+* [FedMoS: Taming Client Drift in Federated Learning with Double Momentum and Adaptive Selection](TBA)
+
+* [FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning](TBA)
+
+* [Heterogeneity-Aware Federated Learning with Adaptive Client Selection and Gradient Compression](TBA)
+
+* [Joint Edge Aggregation and Association for Cost-Efficient Multi-Cell Federated Learning](TBA)
+
+* [Joint Participation Incentive and Network Pricing Design for Federated Learning](TBA)
+
+* [More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning](TBA)
+
+* [Network Adaptive Federated Learning: Congestion and Lossy Compression](TBA)
+
+* [OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting](TBA)
+
+* [Privacy as a Resource in Differentially Private Federated Learning](TBA)
+
+* [SplitGP: Achieving Both Generalization and Personalization in Federated Learning](TBA)
+
+* [SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition](TBA)
+
+* [Tackling System Induced Bias in Federated Learning: Stratification and Convergence Analysis](TBA)
+
+* [Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions](TBA)
+
+* [Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling](TBA)
+
+* [TVFL: Tunable Vertical Federated Learning towards Communication-Efficient Model Serving](TBA)
+
+
+### IPSN
+
+* [Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954)
+
+### IoTDI
+
+* [In-Ear-Voice: Towards Milli-Watt Audio Enhancement with Bone-Conduction Microphones for In-Ear Sensing Platforms](https://dl.acm.org/doi/pdf/10.1145/3576842.3582365)
+
+* [Acuity: Creating Realistic Digital Twins Through Multi-resolution Pointcloud Processing and Audiovisual Sensor Fusion.](https://dl.acm.org/doi/pdf/10.1145/3576842.3582363)
+
+* [AI-based Simultaneous Audio Localization and Communication For Robots](https://dl.acm.org/doi/pdf/10.1145/3576842.3582373)
+
+
+### MobiSys
+
+* [DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867)
+
+* ["Is this my president speaking?" Tamper-proofing Speech in Live Recordings](https://dl.acm.org/doi/pdf/10.1145/3581791.3596862)
+
+* [SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems](https://dl.acm.org/doi/pdf/10.1145/3581791.3596859)
+
+* [Wireless earbuds for low-cost hearing screening](https://dl.acm.org/doi/pdf/10.1145/3581791.3596856)
+
+* [Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training](https://dl.acm.org/doi/pdf/10.1145/3581791.3596844)
+
+* [Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables](https://dl.acm.org/doi/pdf/10.1145/3581791.3596832)
+
+* [EchoAttack: Practical Inaudible Attacks To Smart Earbuds](https://dl.acm.org/doi/pdf/10.1145/3581791.3596837)
+
+* [RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips](https://dl.acm.org/doi/pdf/10.1145/3581791.3596838)
+
+* [BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841)
+
+
+### ICDCS
+
+* [EchoImage: User Authentication on Smart Speakers Using Acoustic Signals](TBA)
+
+* [EmoLeak: Smartphone Motions Reveal Emotions](TBA)
+
+* [An Acoustic Signal-based Middle-Ear Effusion Detection using Earphones](TBA)
+
+* [SplitBeam: Effective and Efficient Beamforming in Wi-Fi Networks Through Split Computing](TBA)
+
+
 
 
 ## 2022
@@ -250,180 +451,6 @@ We summarize the approximate deadline and the conference time for each conferenc
 * [Generative Personalized Federated Learning Framework for Travel Time Estimation](https://dl.acm.org/doi/pdf/10.1145/3560905.3568083)
 
 
+[//]: < ## 2021 >
 
 
-## 2023
-
-### IMWUT (Ubicomp):
-
-#### Volume 7, Issue 1 (March):
-
-* [Mites: Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings](https://dl.acm.org/doi/pdf/10.1145/3580865)
-
-* [ViSig: Automatic Interpretation of Visual Body Signals Using On-Body Sensors](https://dl.acm.org/doi/pdf/10.1145/3580797)
-
-* [RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensing](https://dl.acm.org/doi/pdf/10.1145/3580854)
-
-* [Midas: Generating mmWave Radar Data from Videos for Training Pervasive and Privacy-preserving Human Sensing Tasks](https://dl.acm.org/doi/pdf/10.1145/3580872)
-
-* [MI-Mesh: 3D Human Mesh Construction by Fusing Image and Millimeter Wave](https://dl.acm.org/doi/pdf/10.1145/3580861)
-
-* [Real-time Context-Aware Multimodal Network for Activity and ActivityStage Recognition from Team Communication in Dynamic Clinical Settings](https://dl.acm.org/doi/pdf/10.1145/3580798)
-
-* [X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model](https://dl.acm.org/doi/pdf/10.1145/3580804)
-
-* [Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580795)
-
-* [AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments](https://dl.acm.org/doi/pdf/10.1145/3580818)
-
-* [FocalPoint: Adaptive Direct Manipulation for Selecting Small 3D Virtual Objects](https://dl.acm.org/doi/pdf/10.1145/3580856)
-
-* [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3580789)
-
-* [MagSound: Magnetic Field Assisted Wireless Earphone Tracking](https://dl.acm.org/doi/pdf/10.1145/3580889)
-
-* [Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud](https://dl.acm.org/doi/pdf/10.1145/3580779)
-
-* [RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3580859)
-
-* [mSilent: Towards General Corpus Silent Speech Recognition Using COTS mmWave Radar](https://dl.acm.org/doi/pdf/10.1145/3580838)
-
-* [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System](https://dl.acm.org/doi/pdf/10.1145/3580835)
-
-#### Volume 7, issue 2 (June):
-
-* [EarAcE: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform](https://dl.acm.org/doi/pdf/10.1145/3596242)
-
-* [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://dl.acm.org/doi/pdf/10.1145/3596266)
-
-* [RF-Mic: Live Voice Eavesdropping via Capturing Subtle Facial Speech Dynamics Leveraging RFID](https://dl.acm.org/doi/pdf/10.1145/3596259)
-
-* [TwinkleTwinkle: Interacting with Your Smart Devices by Eye Blink](https://dl.acm.org/doi/pdf/10.1145/3596238)
-
-* []()
-
-### INFOCOM (initial pick)：
-
-* [FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker](TBA)
-
-* [HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones](TBA)
-
-* [I Can Hear You Without a Microphone: Live Speech Eavesdropping From Earphone Motion Sensors](TBA)
-
-* [mmMIC: Multi-modal Speech Recognition based on mmWave Radar](https://cs.nju.edu.cn/lxie/publication/INFOCOM2023Fan.pdf)
-
-* [Secure and Robust Two Factor Authentication via Acoustic Fingerprinting](TBA)
-
-* [Voice Liveness Detection with Sound Field Dynamics](TBA)
-
-* [WakeUp: Fine-Grained Fatigue Detection Based on Multi-Information Fusion on Smart Speakers](TBA)
-
-* [WSTrack: A Wi-Fi and Sound Fusion System for Device-free Human Tracking](TBA)
-
-* [A Hierarchical Knowledge Transfer Framework for Heterogeneous Federated Learning](TBA)
-
-* [A Reinforcement Learning Approach for Minimizing Job Completion Time in Clustered Federated Learning](TBA)
-
-* [Adaptive Configuration for Heterogeneous Participants in Decentralized Federated Learning](TBA)
-
-* [AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge Devices](TBA)
-
-* [AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation](TBA)
-
-* [Asynchronous Federated Unlearning](TBA)
-
-* [Communication-Efficient Federated Learning for Heterogeneous Edge Devices Based on Adaptive Gradient Quantization](TBA)
-
-* [Enabling Communication-Efficient Federated Learning via Distributed Compressed Sensing](TBA)
-
-* [Federated Learning under Heterogeneous and Correlated Client Availability](TBA)
-
-* [Federated Learning with Flexible Control](TBA)
-
-* [Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Network](TBA)
-
-* [FedMoS: Taming Client Drift in Federated Learning with Double Momentum and Adaptive Selection](TBA)
-
-* [FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning](TBA)
-
-* [Heterogeneity-Aware Federated Learning with Adaptive Client Selection and Gradient Compression](TBA)
-
-* [Joint Edge Aggregation and Association for Cost-Efficient Multi-Cell Federated Learning](TBA)
-
-* [Joint Participation Incentive and Network Pricing Design for Federated Learning](TBA)
-
-* [More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning](TBA)
-
-* [Network Adaptive Federated Learning: Congestion and Lossy Compression](TBA)
-
-* [OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting](TBA)
-
-* [Privacy as a Resource in Differentially Private Federated Learning](TBA)
-
-* [SplitGP: Achieving Both Generalization and Personalization in Federated Learning](TBA)
-
-* [SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition](TBA)
-
-* [Tackling System Induced Bias in Federated Learning: Stratification and Convergence Analysis](TBA)
-
-* [Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions](TBA)
-
-* [Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling](TBA)
-
-* [TVFL: Tunable Vertical Federated Learning towards Communication-Efficient Model Serving](TBA)
-
-
-### IPSN
-
-* [Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954)
-
-### IoTDI
-
-* [In-Ear-Voice: Towards Milli-Watt Audio Enhancement with Bone-Conduction Microphones for In-Ear Sensing Platforms](https://dl.acm.org/doi/pdf/10.1145/3576842.3582365)
-
-* [Acuity: Creating Realistic Digital Twins Through Multi-resolution Pointcloud Processing and Audiovisual Sensor Fusion.](https://dl.acm.org/doi/pdf/10.1145/3576842.3582363)
-
-* [AI-based Simultaneous Audio Localization and Communication For Robots](https://dl.acm.org/doi/pdf/10.1145/3576842.3582373)
-
-
-### MobiSys
-
-* [DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867)
-
-* ["Is this my president speaking?" Tamper-proofing Speech in Live Recordings](https://dl.acm.org/doi/pdf/10.1145/3581791.3596862)
-
-* [SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems](https://dl.acm.org/doi/pdf/10.1145/3581791.3596859)
-
-* [Wireless earbuds for low-cost hearing screening](https://dl.acm.org/doi/pdf/10.1145/3581791.3596856)
-
-* [Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training](https://dl.acm.org/doi/pdf/10.1145/3581791.3596844)
-
-* [Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables](https://dl.acm.org/doi/pdf/10.1145/3581791.3596832)
-
-* [EchoAttack: Practical Inaudible Attacks To Smart Earbuds](https://dl.acm.org/doi/pdf/10.1145/3581791.3596837)
-
-* [RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips](https://dl.acm.org/doi/pdf/10.1145/3581791.3596838)
-
-* [BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841)
-
-
-### ICDCS
-
-* [EchoImage: User Authentication on Smart Speakers Using Acoustic Signals](TBA)
-
-* [EmoLeak: Smartphone Motions Reveal Emotions](TBA)
-
-* [An Acoustic Signal-based Middle-Ear Effusion Detection using Earphones](TBA)
-
-* [SplitBeam: Effective and Efficient Beamforming in Wi-Fi Networks Through Split Computing](TBA)
-
-
-<!---
-### HobiHoc
-
-### MobiCom
-
-### UbiComp
-
-### SenSys
--->
