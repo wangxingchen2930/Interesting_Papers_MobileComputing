@@ -80,14 +80,28 @@ We summarize the approximate deadline and the conference time for each conferenc
 * []()
 
 <!---
-### HobiHoc
 
 ### UbiComp
 
 ### SenSys
 -->
 
+### HobiHoc
+
+* [Wave-for-Safe: Multisensor-based Mutual Authentication for Unmanned Delivery Vehicle Services](https://dl.acm.org/doi/pdf/10.1145/3565287.3610253)
+
+* [Incentive Mechanism Design for Federated Learning and Unlearning](https://dl.acm.org/doi/pdf/10.1145/3565287.3610269)
+
+* [EarCase: Sound Source Localization Leveraging Mini Acoustic Structure Equipped Phone Cases for Hearing-challenged People](https://dl.acm.org/doi/pdf/10.1145/3565287.3610270)
+
+* [Waste Not, Want Not: Service Migration-Assisted Federated Intelligence for Multi-Modality Mobile Edge Computing](https://dl.acm.org/doi/pdf/10.1145/3565287.3610277)
+
+* [Scalable Multi-Modal Learning for Cross-Link Channel Prediction in Massive IoT Networks](https://dl.acm.org/doi/pdf/10.1145/3565287.3610280)
+
+* [AirFC: Designing Fully Connected Layers for Neural Networks with Wireless Signals](https://dl.acm.org/doi/pdf/10.1145/3565287.3610281)
+
 ### MobiCom
+
 * [Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound](https://dl.acm.org/doi/pdf/10.1145/3570361.3592496)
 
 * [mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications](https://dl.acm.org/doi/pdf/10.1145/3570361.3592515)
