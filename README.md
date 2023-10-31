@@ -83,8 +83,36 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 ### UbiComp
 
-### SenSys
 -->
+
+### SenSys (initial pick):
+
+* [MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels](TBA)
+
+
+* [SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach](TBA)
+
+
+* [XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition](TBA)
+
+
+* [RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models](TBA)
+
+
+* [FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data](TBA)
+
+* [XiTuXi: Sealing the Gaps in Cross-Technology Communication by Neural Machine Translation](TBA)
+
+* [Physics-Informed Data Denoising for Real-Life Sensing Systems](TBA)
+
+* [EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge](TBA)
+
+* [Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV](TBA)
+
+* [Egocentric Human Pose Estimation using Head-mounted mmWave Radar](TBA)
+
+* [Construct 3D Hand Skeleton with Commercial WiFi](TBA)
+
 
 ### HobiHoc
 
