@@ -77,13 +77,20 @@ We summarize the approximate deadline and the conference time for each conferenc
 
 * [TwinkleTwinkle: Interacting with Your Smart Devices by Eye Blink](https://dl.acm.org/doi/pdf/10.1145/3596238)
 
-* []()
+* [DAPPER: Label-Free Performance Estimation after Personalization for Heterogeneous Mobile Sensing](https://dl.acm.org/doi/pdf/10.1145/3596256)
 
-<!---
+* [SmartASL: "Point-of-Care" Comprehensive ASL Interpreter Using Wearables](https://dl.acm.org/doi/pdf/10.1145/3596255)
 
-### UbiComp
+* [Towards a Dynamic Fresnel Zone Model to WiFi-based Human Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3596270)
 
--->
+* [Synthetic Smartwatch IMU Data Generation from In-the-wild ASL Videos](https://dl.acm.org/doi/pdf/10.1145/3596261)
+
+* [ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3596234)
+
+* [Automatic Update for Wi-Fi Fingerprinting Indoor Localization via Multi-Target Domain Adaptation](https://dl.acm.org/doi/pdf/10.1145/3596239)
+
+* [WiMeasure: Millimeter-level Object Size Measurement with Commodity WiFi Devices](https://dl.acm.org/doi/pdf/10.1145/3596250)
+
 
 ### SenSys (initial pick):
 
